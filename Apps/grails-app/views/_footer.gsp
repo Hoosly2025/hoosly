@@ -1,11 +1,11 @@
 			<div id="footer-wrapper">
 				
 				<!-- Footer -->
-						<a href="/"><asset:image src="bookly-love-150.png" width="150px" height="150px"/></a>
+						<a href="/"><asset:image src="liveoakhomefooter.png" width="100px" height="100px"/></a>
 						<br><br>
 						
 						<div class="row">
-							<div class="4u">
+							<div class="12u">
 								<section>
 									<!--  <ul class="social">-->
 										<!--  <li><a class="fa fa-facebook solo" href="https://www.facebook.com/foodalCo/"><span>Facebook</span></a></li>
@@ -16,16 +16,17 @@
 									<ul class="divided">
 										<li>
 										
-											<h3><a href="mailto:bilal@mytweetmark.com">bilal@mytweetmark.com</a></h3>
+											<h3><a href="mailto:hello@liveoakhome.co">hello@liveoakhome.co</a></h3>
 										</li>
 										<li>
-										<a href="https://angel.co/company/dotshop-1" target="_blank"><h3>Shop Ventures NFT on Angellist</h3></a></li>
+										<a href="https://liveoakhome.co" target="_blank"><h3>Live Oak Home Website</h3></a></li>
 											
 									</ul>
 								</section>
 								
 							</div>
 							
+							<!--
 							<div class="4u">
 
 								<section>
@@ -40,7 +41,6 @@
 								</section>
 				
 							</div>
-							 
 							<div class="4u">
 							<section>
 									<ul class="divided">
@@ -56,6 +56,8 @@
 								
 							
 							</div>
+							--> 
+							
 						</div>
 											
 					</section>

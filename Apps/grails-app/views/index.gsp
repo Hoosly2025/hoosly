@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<meta name="description" content="bookly.love - NFT Marketplace: Build a Shop, Write Books and Create NFTs" />
-<meta name="keywords" content="Books, Publish, Marketing, pdf, text, images, image, video, photo, distribute, distribution, Garments, Art, Clothing, Jewelry, startup, online store, entrepreneur" />
+		<meta name="description" content="Hoosly - Taking Care of Home" />
+<meta name="keywords" content="home, care, ownership, maintenance, comprehensive, solutions, Concierge, advisor, project, start, finish, network, professionals, experts, deliver, work, pricing, competition, travelers, busy, landlords, streamline, consultation, planning, servicing, standing by, annual, scheduled tasks, text, call, real-time needs, plans, repair, Interior, exterior, painting, Lawn care, lawn, care, tree trimming, tree, trim, Pressure washing, washing, Appliance, HVAC services, hvac, Seasonal cleaning, clearing, seasonal, Moderate renovations, renovations, Carpentry, Electrical, Heating & cooling system, heating, cooling, Appliance repair, Diagnostic inspection, inspection, Same-day deliveries, Hanging art & fixtures, art, fixtures, Rearranging furniture, furniture, Exterminator services, exterminator, Going out of town, town, Moving services/coordination, moving, quality, dashboard, peace, mind, customized" />
 <meta http-equiv="window-target" content="_top" />
 <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<title>bookly.love - NFT Marketplace: Build a Shop, Write Books and Create NFTs</title>
+	<title>Hoosly.com - Hoosly - Taking Care of Home</title>
 	<asset:stylesheet src="skel-noscript.css"/>
 	<asset:stylesheet src="style.css"/>
 	<asset:stylesheet src="style-desktop.css"/>
@@ -51,7 +51,7 @@
 		  border-width: 2px;
 		  margin: 5px;
 		  padding: 10px;
-		  background-color: #d23b2a;
+		  background-color: #ffffff;
 		  color: #fdeba9;
 		}
 		.button {
@@ -175,60 +175,21 @@
 						  <ol class="carousel-indicators">
 						    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 						    <li data-target="#myCarousel" data-slide-to="1"></li>
-						    <li data-target="#myCarousel" data-slide-to="2"></li>
-						    <li data-target="#myCarousel" data-slide-to="3"></li>
-						    <li data-target="#myCarousel" data-slide-to="4"></li>
-						    <li data-target="#myCarousel" data-slide-to="5"></li>
-						    <li data-target="#myCarousel" data-slide-to="6"></li>
-						    <li data-target="#myCarousel" data-slide-to="7"></li>
+						    
 						  </ol>
 
 						  <!-- Wrapper for slides -->
 						  <div class="carousel-inner">
 						    
 						    <div class="item active">
-						    <g:link url="https://buy.stripe.com/14keX106f86K2c09AH"><asset:image src="venture-coin.png"/></g:link>
+						    <g:link url="https://buy.stripe.com/14keX106f86K2c09AH"><asset:image src="liveoakhome-1.png"/></g:link>
 						    </div>
 						    
 						    <div class="item">
-						    <g:link url="https://buy.stripe.com/00g8yDf19biW9Es14a"><asset:image src="entrepreneur-coin.png"/></g:link>
+						    <g:link url="https://buy.stripe.com/00g8yDf19biW9Es14a"><asset:image src="liveoakhome-2.png"/></g:link>
 						    </div>
 						    						    
-						    <div class="item">
-						    <g:link url="https://buy.stripe.com/3cscOT5qz5YC8Ao148"><asset:image src="startup-coin.png"/></g:link>
-						    </div>
-						    
-						    <div class="item">
-						    <g:link url="https://buy.stripe.com/8wMg15aKTbiWeYM8wB"><asset:image src="book-coin.png"/></g:link>
-						    </div>
-						      
-						    <div class="item">
-						    <g:link url="https://paypal.me/mytweetmark"><asset:image src="pay-now.png"/></g:link>
-						    </div>  
-						    
-						    <div class="item">
-						    <g:link url="https://buy.stripe.com/3cs3ej9GPbiW8AofZ6"><asset:image src="metaverse-coin.png"/></g:link>
-						    </div>
-						    
-						    <div class="item">
-						    <g:link url="https://buy.stripe.com/bIY3ejdX53Qu2c07sE"><asset:image src="vc-coin.png"/></g:link>
-						    </div>  
-						    
-						    
-						    <div class="item">
-						    <g:link url="https://buy.stripe.com/fZe9CHf193Qu6sgeV4"><asset:image src="yoga-coin.png"/></g:link>
-						    </div>  
-						    
-						    <div class="item">
-						    <g:link url="https://buy.stripe.com/6oE4in06f0Ei9Es28h"><asset:image src="angel-coin.png"/></g:link>
-						    </div>
-						    
-						    
-						    <div class="item">
-						    <g:link url="https://buy.stripe.com/6oE2af9GP2Mq8Ao14f"><asset:image src="banana-coin.png"/></g:link>
-						    </div>
-						    
-						  </div>
+						    						  </div>
 
 						  <!-- Left and right controls -->
 						  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -245,7 +206,8 @@
 					</div>
 					
 					
-								<!-- Nav -->
+								<!-- Nav 
+								
 										<nav id="nav">
 											<ul>
 												<li><button class="button"><span style="color:#ffffff"><g:link controller="chapter" action="index"><span style="color:#feff00">Chapters</span></g:link></span></button></li>
@@ -253,9 +215,10 @@
 												<br><br>
 												 
 												
-												<!--<li><a href="left-sidebar.html">Login</a></li>-->
+												<li><a href="left-sidebar.html">Login</a></li>
 											</ul>
 										</nav>
+										-->
 														<!-- Intro -->
 							<div class="row">
 						<div class="12u">
@@ -264,139 +227,39 @@
 									<div>
 										<div id="tabs">
 													  <ul>
-													    <li><a href="#tabs-1">Shop</a></li>
-													    <li><a href="#tabs-2">Books</a></li>
-													    <li><a href="#tabs-3">NFT</a></li>													  
+													    <li><a href="#tabs-1">Client</a></li>
+													    <li><a href="#tabs-2">Vendor</a></li>
+													    <li><a href="#tabs-3">Admin</a></li>													  
 													  </ul>
-													  <div id="tabs-1" style="border: 5px #fdfaaa;
+													  <div id="tabs-1" style="border: 5px #20395d;
 		  border-width: 5px;
-		  background-color: black;">
+		  background-color: #20395d;">
 													  
-													  	<p><span style="color:#ffffff;font-size:24px;"><br><br><span style="color:#feff9f">Bookly.love:</span>
-													  	<br><br>
-<a href="https://buy.stripe.com/8wMg15aKTbiWeYM8wB" target="_blank"><span style="color:#78f9f9;font-size:28px;">NFT Marketplace: Write a Book - Create a NFT. Buy and Sell Books Online - Crowd Source Investments from your Readers in Blockchain. Pay Now! $1000</span></a><br><br>
+													  	<p><span style="color:#20395d;font-size:24px;"><br><br>
+<span style="color:#20395d;font-size:28px;">Create a user with our onboarding, input home details, setup preferences, choose a subscription price, automated reminder and scheduling tasks, AI chatbot for homeowner queries, recommend services and facilitate bookings, request repair service, vendor matching and real-time tracking of service appointments.</span><br><br>
 </span>
 
-<br>
-<a href="https://buy.stripe.com/fZe9CHf193Qu6sgeV4" target="_blank"><span style="color:#78f9f9;font-size:28px;">Join our Team of entrepreneurs and investors - Working towards building WEB3, metaverse, NFT Blockchain shops - Inspired by Yoga and written many books, on Bookly! Pay Now! $49.50</span></a><br><br>
 </span>
 </p>
-													  	<p><span style="color:#ffffff;font-size:24px;"><br>
-													    <span style="color:#feff9f;">Metaverse:</span>
-													  	<br><br>
-													  	<a href="https://buy.stripe.com/3cs3ej9GPbiW8AofZ6" target="_blank"><span style="color:#78f9f9;font-size:28px;">Build a WEB3 metaverse, NFT Blockchain Shop - Crowd Source and Fund in Blockchain. Pay Now! $5000</span></a><br><br>
-													  	</span></p>
 													  	
-													    <p><span style="color:#ffffff;font-size:24px;"><br>
-													    <span style="color:#feff9f;">Shop:</span>
-													  	<br><br>
-													  	<a href="https://buy.stripe.com/3cscOT5qz5YC8Ao148" target="_blank"><span style="color:#78f9f9;font-size:28px;">Build a NFT Shop Online - Crowd Source your Business - Sell Products and Services - Buy and Sell Coins - WEB3 and Metaverse Design for Blockchain. Pay Now! $2000</span></a><br><br>
-													  	</span>
-													  	<br>
-													  	<a href="https://buy.stripe.com/6oE4in06f0Ei9Es28h
-" target="_blank"><span style="color:#78f9f9;font-size:28px;">Join our Team! Become a Lead Angel Investor - Build own metaverse, digital shop with Web3, NFT Blockchain - Crowd Source with Network, pitch for Venture Capital funds and Crowd Fund, your business. Get 1% equity with us! Pay Now! $10000</span></a><br><br>
-													  	</span>
-													  	</p>
-													  	
-													  	<span style="color:#ffffff;font-size:28px;">
-													    <p><br><a href="http://taote.shop/product/premium" target="_blank"><span style="color:#78f9f9">Sketch your Shop. Let's get started on your NFT and startup checklist!</span></a><br><br>  </p>
-													  	<p><br><a href="http://taote.shop" target="_blank"><span style="color:#78f9f9">Manage your Projects. Use our NFT project management and venture capital tools.</span></a><br><br></p>
-													  	<p><br><a href="http://bookly.love/chapter/show/545" target="_blank"><span style="color:#78f9f9">Using Tech to Improve Productivity - Read article, our enterprise business tools in the news.</span></a><br><br></p>
-</span>
-
-<p><span style="color:#ffffff;font-size:24px;"><br>
-													    <span style="color:#feff9f">Entrepreneurship:</span>
-													  	<br><br>
-<a href="https://paypal.me/mytweetmark" target="_blank"><span style="color:#78f9f9;font-size:28px;">NFT Metaverse WEB3, Blockchain Startup Incubator & Accelerator - Entrepreneurship Program - Pay Now!</span></a>										  	
-<br><br>
-													  	</span></p>
-													  	
-													    
 													  </div>
 													  
 <div id="tabs-2" style="border: 5px #fdfaaa;
 		  border-width: 5px;
-		  background-color: black;">
+		  background-color: #20395d;">
 													    <p><span style="color:#ffffff;font-size:24px;"><br><br>
-													    <a href="https://buy.stripe.com/8wMg15cT1fzcaIw6oo" target="_blank"><span style="color:#78f9f9;font-size:28px;">Pay for a book you read on Bookly. Support your local entrepreneur - Pay Now! $10</span></a><br><br>
-													    Books published on Amazon and Lulu.<br><br><g:link controller="book" action="index"><span style="color:#feff00">Read our books.</span></g:link>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Secret-Book-Bilal-Ahmed/dp/1484177975" target="_blank"><span style="color:#78f9f9;">- The Secret Book: Vedanta part I</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Sacred-Book-Bilal-Ahmed/dp/1490950931" target="_blank"><span style="color:#78f9f9;">- The Sacred Book: Vedanta part II</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Startup-Book-Entrepreneurship-Training-Manual/dp/1500475459" target="_blank"><span style="color:#78f9f9;">- The Startup Book: Venture Capitals</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Guru-Book-Bilal-Ahmed/dp/1502308959" target="_blank"><span style="color:#78f9f9;" target="_blank">- The Guru Book: Dedicated to Teachers and Masters</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/VC-Book-Venture-Capital/dp/1514311925" target="_blank"><span style="color:#78f9f9;" target="_blank">- The Venture Capital Book: Startups</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Social-Book-Bilal-Ahmed/dp/1517320976" target="_blank"><span style="color:#78f9f9;" target="_blank">- The Social Book: Pyramids</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Founder-Book-Bilal-Ahmed/dp/1517596823" target="_blank"><span style="color:#78f9f9;" target="_blank">- The Founder Book: How to be One</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Cook-Book-Bilal-Ahmed/dp/1539524620" target="_blank"><span style="color:#78f9f9;" target="_blank">- The Cook Book: Vegan Recipes</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Entrepreneur-Handbook-Bilal-Ahmed/dp/1535584068" target="_blank"><span style="color:#78f9f9;" target="_blank">- The Entrepreneur Hand Book: Startups and Venture Capitals</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/God-Book-Bilal-Ahmed/dp/1539987639" target="_blank"><span style="color:#78f9f9;" target="_blank">- The God Book: Vedas</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Business-Book-Entrepreneurs-Working-Incubators/dp/1985032015" target="_blank"><span style="color:#78f9f9;">- The Business Book: Incubators</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="http://www.lulu.com/shop/bilal-ahmed/the-goddess-book/paperback/product-23782150.html" target="_blank"><span style="color:#78f9f9;">- The Goddess Book: Upanishads part I</span></a></span></span></p>
-<p><span style="color:#8a7e7e;font-size:24px;"><a href="https://www.amazon.com/Goddess-Book-First-Upanishads/dp/1727484754" target="_blank"><span style="color:#78f9f9;" target="_blank">- The Goddess Book: Upanishads part II</span></a></span></span></p>
+													    <span style="color:#20395d;font-size:28px;">Vendors can manage services, appointments and payments with onboarding, subscription billing, access service requests, dashboard to accept, track and complete service requests efficiently.</span><br><br>
 </span></p>								
-<p><br><g:link class="list" action="index" controller="donateBook"><span style="color:#78f9f9;font-size:28px;">Donate a book today!</span></g:link><br><br>  </p>					  	
+					  	
 													  </div>
 													  <div id="tabs-3" style="border: 5px #fdfaaa;
 		  border-width: 5px;
-		  background-color: black;">
+		  background-color: #20395d;">
 													  
-													  	<p><span style="color:#ffffff;font-size:24px;"><br><br><span style="color:#feff9f">NFT:</span>
-													  	<br><br>
-<a href="https://buy.stripe.com/14keX106f86K2c09AH" target="_blank"><span style="color:#78f9f9;font-size:28px;">Launch a Product NFT for celebrities, Services NFT for technology providers and Hybrid NFT for social media experts. Learn Crowd Sourcing, NFT Business model and join our Team. Buy our Venture Coin - Pay Now! $100</span></a><br><br>
+													  	<p><span style="color:#ffffff;font-size:24px;"><br><br>
+<span style="color:#20395d;font-size:28px;">Business oversight, analytics, communication, real-time performance, service request tracking, subscription insights, service issues, ticketing system for customer complaints, escalations, system performance monitoring, error reporting, customer engagement, promotions and vendor relationship management.</span><br><br>
 </span></p>
 													  	
-													    <p><span style="color:#ffffff;font-size:24px;"><br>
-													    <span style="color:#feff9f">Shop NFT:</span>
-													  	<br><br>
-													  	
-Create a NFT with us, build a shop and write a book, to maximize value for your business, and sell for cash or crypto currency. <a href="https://buy.stripe.com/bIYg15dX5gDg6sg4gh" target="_blank"><span style="color:#78f9f9;font-size:28px;">Become an investor - $500, credit card!</span></a> <br><br>
-
-<br><br>
-													  	
-Working with GREAT business men in yoga and tao, but poor in many others things - Weakness compared to strengths, in the Spirit verse, where God resides. Take the blessings, but not free! <a href="https://buy.stripe.com/6oE2af9GP2Mq8Ao14f" target="_blank"><span style="color:#78f9f9;font-size:28px;">Banana Coin - $12.50, Pay Now!</span></a> <br><br>
-
-<br><br>
-													  	
-Working with Venture Capitals for over a decade - Many books written and this coin is for our SUPER investors, that live on our social media feed, 24 hours a day! <a href="https://buy.stripe.com/bIY3ejdX53Qu2c07sE" target="_blank"><span style="color:#78f9f9;font-size:28px;">Venture Capital / Satoshi Coin - $20000, Pay Now!</span></a> <br><br>
-
-</span></p>
-
-<p><span style="color:#ffffff;font-size:24px;"><br>
-													    <span style="color:#feff9f">Celebrity NFT:</span>
-													  	<br><br>
-													  	
-<a href="https://buy.stripe.com/00g8yDf19biW9Es14a" target="_blank"><span style="color:#78f9f9;font-size:28px;">We have launched a list of NFTs for celebrities, helping define own platform and strategy as a business, become a brand, compared to using other people's website to launch your NFT, as a service, without owning Intellectual Property (IP). Buy our Entrepreneur Coin - Pay Now! $500</span></a> <br><br>
-<br>
-
-
-													  	
-<a href="https://buy.stripe.com/fZe16b8CLgDg17WfZb" target="_blank"><span style="color:#78f9f9;font-size:28px;">Learn the tricks of the super venture capitalist! As best business entrepreneurs, with many successful products - The Silicon Valley venture capital are DYING to get the deal flow! Build a Snoop Verse, with NFT & WEB3 plus ownership with us! Buy our Snoop Dogg Coin - Pay Now! $50000</span></a> <br><br>
-<br>
-
-													  	
-<a href="https://buy.stripe.com/4gwcOTdX586K8AoaES" target="_blank"><span style="color:#78f9f9;font-size:28px;">Learn the best tricks in the business - Humbled to be learning from Silicon Valley, as a student, in and out, now Saturday Night Live, as new American culture, hopefully you are not TOO poor, to buy this coin - Or looking for free guidance then blame. Buy our Puff Diddy Coin - Pay Now! $6.25</span></a> <br><br>
-<br>
-
-													  	
-<a href="https://buy.stripe.com/7sI2aff192Mq7wk3cr" target="_blank"><span style="color:#78f9f9;font-size:28px;">With so many venture capital now investing in politics - From mayorship to governor - Florida, Texas, California and New York, competing for talent - Support your local PAC - Elections 2022 results and make an impact in the world - With our Network. Buy our Obama Coin - Pay Now! $100000</span></a> <br><br>
-<br>
-
-													  	
-<a href="https://buy.stripe.com/fZe9CH5qz4UycQE3cs" target="_blank"><span style="color:#78f9f9;font-size:28px;">Do you know what it's like to be a superstar? Look no further - Lebron James, Kobe Bryant, Tom Brady are superstars, humbled to be hanging out on social media - Learning and teaching, both ways, with the guidance of Barack Obama and Hillary Clinton. Buy our King Coin - Pay Now! $10</span></a> <br><br>
-<br>
-
-													  	
-<a href="https://buy.stripe.com/eVa2af3irbiW03S9AR" target="_blank"><span style="color:#78f9f9;font-size:28px;">With Golden State Warriors, winning many NBA championships in Oakland, where Ayesha, same name as my sister, has a restaurant, downtown of Jack London Square, only if Silicon Valley venture capital knew of the location, that would build a CurryVerse. Buy our Curry Coin - Pay Now! $500000</span></a> <br><br>
-<br>
-
-													  	
-<a href="https://buy.stripe.com/7sIbKP8CL0EibMA5kC" target="_blank"><span style="color:#78f9f9;font-size:28px;">If you like to travel abroad, working with international software developers, especially hand shaking - That's on you Silicon Valley investors, for being life long cheap, that nobody wants to deal with you, until you pay past bills, free learning. Buy our Paris Coin - Pay Now! $3.12</span></a> <br><br>
-<br>
-
-													  	
-<a href="https://buy.stripe.com/cN22af1ajdr47wk00j" target="_blank"><span style="color:#78f9f9;font-size:28px;">With the influence of our teachers in music from 31 years ago - Lollapalooza, Jane's Addiction, Body Count, Ice T, Perry Farrell, Ice Cube, NWA and 7 years ago, working with Hillary Clinton, Snoop Dogg and Diddy, building many projects, software, etc. Buy our Ice & Hot Coin - Pay Now! $1</span></a> <br><br>
-<br>
-</span></p>
 													    
 													  </div>
 													  													  
