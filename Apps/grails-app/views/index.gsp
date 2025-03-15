@@ -237,6 +237,17 @@
 													  
 													  	<p><span style="color:#20395d;font-size:24px;"><br><br>
 <span style="color:#20395d;font-size:28px;">Create a user with our onboarding, input home details, setup preferences, choose a subscription price, automated reminder and scheduling tasks, AI chatbot for homeowner queries, recommend services and facilitate bookings, request repair service, vendor matching and real-time tracking of service appointments.</span><br><br>
+<g:link controller="CustomerMaintenanceType" action="index"><span style="color:#20395d;font-size:28px;">Customer Maintenance Type</span></g:link><br>
+<g:link controller="CustomerMaintenanceStatus" action="index"><span style="color:#20395d;font-size:28px;">Customer Maintenance Status</span></g:link><br>
+<g:link controller="CustomerMaintenanceRating" action="index"><span style="color:#20395d;font-size:28px;">Customer Maintenance Rating</span></g:link><br>
+<g:link controller="CustomerOnboardingPropertyType" action="index"><span style="color:#20395d;font-size:28px;">Customer Onboarding Property Type</span></g:link><br>
+<g:link controller="CustomerOnboardingMaintenanceFrequency" action="index"><span style="color:#20395d;font-size:28px;">Customer Onboarding Maintenance Frequency</span></g:link><br>
+<g:link controller="CustomerOnboardingServiceInterests" action="index"><span style="color:#20395d;font-size:28px;">Customer Onboarding Service Interests</span></g:link><br>
+<g:link controller="CustomerOnboardingServiceInterestsMap" action="index"><span style="color:#20395d;font-size:28px;">Customer Onboarding Service Interests Map</span></g:link><br>
+<g:link controller="ClientOnboarding" action="index"><span style="color:#20395d;font-size:28px;">Client Onboarding</span></g:link><br>
+<g:link controller="CustomerSubscriptionPlan" action="index"><span style="color:#20395d;font-size:28px;">Customer Subscription Plan</span></g:link><br>
+<g:link controller="CustomerSubscriptionCurrentPlanType" action="index"><span style="color:#20395d;font-size:28px;">Customer Subscription Current Plan Type</span></g:link><br>
+<g:link controller="Client Subscription" action="index"><span style="color:#20395d;font-size:28px;">Client Subscription</span></g:link><br>
 </span>
 
 </span>
